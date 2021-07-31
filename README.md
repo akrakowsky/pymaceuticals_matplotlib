@@ -3,7 +3,7 @@ Analysis of Pymaceuticals study on carcinogen fighting drugs
 
 # Table of contents
 
-** A. Pymaceuticals Analysis **
+## A. Pymaceuticals Analysis
 
 1. Pymaceuticals Notebook File
     1. Observations and Insights
